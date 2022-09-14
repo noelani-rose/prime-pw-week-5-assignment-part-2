@@ -8,7 +8,10 @@ h2{
 }
 main{
     background-color: rgb(195, 190, 190);
+    padding: 1em;
 }
 body{
     background-image: url("../assignment/record.png");
+    background-repeat: repeat;
+    margin: 0px;
 }
