@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(99, 96, 96);
+    color: gold;
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+}
+main{
+    background-color: rgb(195, 190, 190);
+}
+body{
+    background-image: url("../assignment/record.png");
+}
